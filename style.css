@@ -1,0 +1,28 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1568148800034-cbca694c5c12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80);
+	background-size: cover;
+}
+
+h2, p {
+	color: #aa4139;
+	text-align: center;
+	border: 5px solid rgb(255, 176, 170);
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+p {
+	color: green;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+	border: 5px dashed green;
+}
